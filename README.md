@@ -1,4 +1,4 @@
-# Chess Game Enhanced
+# Chess Game
 
 <img width="984" height="747" alt="image" src="https://github.com/user-attachments/assets/43fe71a7-6167-4357-9b31-4b14bcd40bbe" />
 
