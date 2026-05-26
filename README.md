@@ -1,4 +1,7 @@
-# Animated Chess Game Enhanced
+# Chess Game Enhanced
+
+<img width="984" height="747" alt="image" src="https://github.com/user-attachments/assets/43fe71a7-6167-4357-9b31-4b14bcd40bbe" />
+
 
 這是一個以西洋棋為主題的 C# WinForms 棋牌類遊戲專案，風格參考線上棋盤網站的乾淨棋盤、合法步提示、移動動畫與音效回饋。專案使用 PNG 棋子圖片與 WAV 音效，並加入可調整視窗大小的棋盤、悔棋、計時器、簡易電腦對手與嘲諷語音。
 
